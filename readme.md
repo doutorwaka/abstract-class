@@ -21,4 +21,4 @@ Para começarmos a solucionar o problema, deveríamos criar uma classe acima de 
 
 Na imagem, a classe cliente agora só precisa conhecer a classe `figura geométrica` uma vez que ela já possui a implementação do cálculo de área. Contudo, se esse método não for sobreposto pelas suas filhas, a classe cliente estaria de fato chamando a implementação da classe mãe, o que ainda é indesejado.
 
-Para solucionar isso e forçar com que qualquer um que herde a classe `figura geométrica`, podemos utilizar uma classe abstrata. Para entender melhor sobre isso, assista o vídeo: [Entenda de vez Classe Abstrata](http://www.youtube.com/@doutorwaka).
+Para solucionar isso e forçar com que qualquer um que herde a classe `figura geométrica`, podemos utilizar uma classe abstrata. Para entender melhor sobre isso, assista o vídeo: [Entenda de vez Classe Abstrata](https://www.youtube.com/watch?v=mJJDJVBqD3A).
